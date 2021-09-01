@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - torch
+  - Ground
+  - torchSound
+  - border
+  - ChangeGravityUp
+  - Teleport
+  - buEngeller
+  - ChangeGravityDown
+  - "sark\u0131t1"
+  - lastScene
+  - Diamond
+  - Snake
+  - "\xE7okHeyecanl\u0131"
+  - kristalinYeri
+  - zehir
+  - "yer\xC7ekimi"
+  - lavlar
+  - "inan\u0131lmaz"
+  - magara
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
